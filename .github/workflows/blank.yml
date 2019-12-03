@@ -1,0 +1,6 @@
+Checkout@v1
+echo Hello, world!
+name: 
+
+on: [push]
+
